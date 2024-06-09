@@ -68,5 +68,7 @@ The plots folder contains the following files:
 - `binary_labels_counts_per_month.html`: The plot for the binary labels counts per month. The plot is interactive and can be viewed in the browser. 
 - `labels_counts_percentage.html`: The plot for the labels counts percentage. The plot is interactive and can be viewed in the browser. 
 - `binary_labels_counts_per_month_seaborn.png`: The plot for the binary labels counts per month. The plot is a seaborn plot.
+![labels_counts_percentage](plots/labels_counts_percentage.png)
+![binary_labels_counts_per_month](plots/binary_labels_counts_per_month.png)
 ![binary_labels_counts_per_month_seaborn](plots/binary_labels_counts_per_month_seaborn.png)
 
