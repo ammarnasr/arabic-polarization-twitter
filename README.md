@@ -1,5 +1,6 @@
 # Twitter Polarization Analysis Toolkit
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Live_App-orange?logo=streamlit)](https://tweet-classification.streamlit.app)
+
 This repository contains tools and scripts for analyzing Arabic Twitter discussions about the civil war in Sudan. It includes data collection methods, preprocessing steps, machine learning models for tweet classification, and analysis tools for understanding public opinion and geopolitical narratives.
 
 ## Repostiry Contents
